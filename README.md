@@ -2,6 +2,8 @@
 
 Resources for building a modular puzzle game designed for use by gorillas.
 
+These were developed as part of the [Gorilla Game Lab](https://gorillagamelab.com) project. 
+
 
 
 ## Design Notes:
